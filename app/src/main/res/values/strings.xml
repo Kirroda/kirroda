@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KRcalc</string>
+    <string name="display_placeholder">0</string>
+    <string name="clear">C</string>
+    <string name="delete">⌫</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="subtract">−</string>
+    <string name="add">+</string>
+    <string name="equals">=</string>
+    <string name="decimal">.</string>
+    <string name="percentage">%</string>
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="error">Error</string>
+</resources>
