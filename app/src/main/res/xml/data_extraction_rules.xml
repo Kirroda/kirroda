@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- 
+         Cloud backup rules for the app.
+         You can exclude certain files or directories from cloud backup if needed.
+        -->
+    </cloud-backup>
+    <!--
+    <device-transfer>
+        Device transfer rules for the app.
+        You can exclude certain files or directories from device transfer if needed.
+    </device-transfer>
+    -->
+</data-extraction-rules>
